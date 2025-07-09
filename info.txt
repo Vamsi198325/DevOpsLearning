@@ -1,2 +1,2 @@
-Vamsi Krishna
-Glasgow
+name     : Vamsi Krishna
+Location : Glasgow,UK
